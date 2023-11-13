@@ -14,7 +14,6 @@ func main() {
 
 	if maxx < a+b+c-maxx {
 		fmt.Println("YES")
-	} else {
-		fmt.Println("NO")
-	}
+		return
+	fmt.Println("NO")
 }
