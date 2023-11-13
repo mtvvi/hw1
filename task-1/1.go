@@ -6,8 +6,7 @@ import (
 )
 
 func main() {
-	var a float64
-	var b float64
+	var a, b float64
 
 	fmt.Scanf("%g\n", &a)
 	fmt.Scanf("%g\n", &b)
